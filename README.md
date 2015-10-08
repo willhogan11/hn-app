@@ -20,3 +20,5 @@ In this exercise we will write a fully fledged Hacker News viewing app.
 
 ## Notes
 - 	You might need the documentation for these: [jQuery.get()](https://api.jquery.com/jquery.get/), [jQuery.each()](http://api.jquery.com/jquery.each/), [jQuery.append()](http://api.jquery.com/append/), [jQuery.after](http://api.jquery.com/after/), [jQuery.before()](http://api.jquery.com/before/).
+
+- You will need the [Hacker News API Documentation](https://github.com/HackerNews/API).
